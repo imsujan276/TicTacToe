@@ -9,7 +9,7 @@ package TicTacToe;
  * @author Lloric Garcia
  */
 public class TicTacToe extends javax.swing.JFrame {
-//----
+//----testing modify
     boolean p1=true;
     public static boolean win=false;
     /**
